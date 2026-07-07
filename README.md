@@ -16,7 +16,7 @@ This repository contains my solution to the parametric curve-fitting assignment.
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/himanshu2005-tech/flamapp.git
    cd flam-curve-fit
    ```
 
